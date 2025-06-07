@@ -1,7 +1,13 @@
 ### HOLA 👋
 
-Me llamo Matias, soy de ARG y programo como pasatiempo
+Me llamo Matias, soy de Argentina y programo como pasatiempo, para curiosear, hacer experimentos y ver cuan lejos puedo llegar
 
-Estoy en constante aprendizaje
 
-### Estos son algunos de mis proyectos y bifurcaciones hasta ahora: 
+
+> _"No hay mejor forma de aprender que romper cosas... y después arreglarlas."_  
+--------------------------------------------------------------------------------------------------------
+### HELLO 👋
+
+My name is Matias, I'm from Argentina and I code as a hobby — to satisfy my curiosity, run experiments, and see how far I can push things.
+
+> _"There's no better way to learn than by breaking things... and then fixing them."_
