@@ -6,7 +6,7 @@
 ⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀           Whoami : Urb@n     
 ⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀          🌎  Ubicación : Argentina         
 ⠀⠀⠀⠀⠀⠀⢻⣿⢿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠶⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀               Mentalidad : Curiosidad, Persistencia, Autodidactismo                               
-⠀⠀⠀⠀⠀⠀⠀⠻⣠⡿⠿⠛⠻⢿⣿⡇⠀⠀⠀⠀⢿⣄⠀⠀⠀⠀⠀⠀⠀⠀           ⚙   Filosofía : Entender > Copiar y pegar                          
+⠀⠀⠀⠀⠀⠀⠀⠻⣠⡿⠿⠛⠻⢿⣿⡇⠀⠀⠀⠀⢿⣄⠀⠀⠀⠀⠀⠀⠀⠀           ⚙   Filosofía : Pensamiento critico ante todo                          
 ⠀⠀⠀⠀⠀⠀⠀⢸⣏⠀⠀⠀⠀⣸⡿⢷⣦⣤⣤⣴⣿⠟⠀⠀⢀⣴⣶⡄⠀⠀                               
 ⠀⠀⠀⠀⠀⠀⠀⠀⣿⣤⣤⣴⣿⣿⡅⡄⢹⣿⡿⠛⠋⠀⠀⢀⣼⣿⣿⣿⡧⠀                          
 ⠀⠀⠀⠀⢀⡀⠀⠀⠈⠛⠟⠛⢻⣿⣿⣿⣿⣿⡿⠀⢀⣤⣶⣿⡿⠛⠋⠉⠀⠀                         
