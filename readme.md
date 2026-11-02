@@ -1,3 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urban20&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Urban20's GitHub Stats" />
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Urban20&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Urban20&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Urban20's GitHub Stats" />
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Urban20)](https://github.com/pranesh-2005/github-readme-stats-fast)
